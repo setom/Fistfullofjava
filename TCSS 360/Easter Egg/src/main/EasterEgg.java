@@ -33,9 +33,11 @@ public class EasterEgg {
 		final Jonah j = new Jonah();
 		final Matt m = new Matt();
 		final Cody c = new Cody();
+		final Francis f = new Francis();
 		
 		j.printJonah();
 		m.printMatt();
 		c.printCody();
+		f.printFrancis();
 	}
 }
