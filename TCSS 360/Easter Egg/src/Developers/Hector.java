@@ -10,5 +10,6 @@ public class Hector {
 	/** Prints out Hector Diaz Contreras. */
 	public void printHecor() {
 		System.out.println("Hector Diaz Contreras");
+		// comment
 	}
 }
