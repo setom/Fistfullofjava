@@ -8,7 +8,7 @@ package Developers;
 public class Hector {
 	
 	/** Prints out Hector Diaz Contreras. */
-	public void printHecor() {
+	public void printHector() {
 		System.out.println("Hector Diaz Contreras");
 		// comment
 	}
