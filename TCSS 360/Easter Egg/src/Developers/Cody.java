@@ -7,6 +7,6 @@ package Developers;
  */
 public class Cody {
 	public void printCody() {
-		System.out.println("Hey. I'm Cody Cates. How's it going? \n");
+		System.out.println("Hey. I'm Cody Cates. How's it going?");
 	}
 }
